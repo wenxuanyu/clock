@@ -1,0 +1,23 @@
+.app-outer{
+  margin:50px auto;
+  width: 300px;
+  text-align: center;
+}
+
+.app-button{
+  width: 50%;
+  font-size: 20px;
+}
+
+.app-button:hover{
+  width: 50%;
+  font-size: 20px;
+  border:solid 1px black;
+}
+
+.app-input{
+  margin-top: 10px;
+  font-size: 20px;
+  width: 50%;
+  display: inline-block;
+}
